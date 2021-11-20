@@ -2,6 +2,7 @@
 Smart-Mart is a convenience store that is in Toronto, Canada. The store needs an application to use it in its daily business. The application will be written by your company for the store.
 
 USER GUIDELINES FOR THE APPLICATION
+
 To run the python script and connect to database, you need to set up MySQL server in your system and install python environment. 
 
 	 To use MySQL, you need first to install it. You can install it from:
